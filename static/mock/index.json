@@ -1,0 +1,147 @@
+{
+  "ret": true,
+  "data": {
+    "swiperList": [
+      {
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1808/a0/0097f04b514fd902.jpg_750x200_9c693a37.jpg"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1806/3c/c72a1ccd4d7b2202.jpg_750x200_b88bbab4.jpg"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1805/e8/14b75b1c81fbe702.jpg_750x200_e6d4f1f1.jpg"
+      }
+    ],
+    "iconList": [
+      {
+        "id": "0001",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png",
+        "text": "热门景点"
+      },
+      {
+        "id": "0002",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png",
+        "text": "广州必游"
+      },
+      {
+        "id": "0003",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/76/eb88861d78fb9902.png",
+        "text": "动植物园"
+      },
+      {
+        "id": "0004",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/8246f27355943202.png",
+        "text": "游乐场"
+      },
+      {
+        "id": "0005",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/89/55083b0f1951f302.png",
+        "text": "游船游艇"
+      },
+      {
+        "id": "0006",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/6a/45f595250c73d102.png",
+        "text": "夏日玩水"
+      },
+      {
+        "id": "0007",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b6/37560ece9c62b502.png",
+        "text": "城市观光"
+      },
+      {
+        "id": "0008",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/95/8d02011d149bdb02.png",
+        "text": "汽车票"
+      },
+      {
+        "id": "0009",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/b1/528a9e80403b8c02.png",
+        "text": "玩转长隆"
+      },
+      {
+        "id": "0010",
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png",
+        "text": "全部玩乐"
+      }
+    ],
+    "recommendList": [
+      {
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1603/3b/3bd311262ee06d8c90.img.jpg_200x200_c118d7da.jpg",
+        "title": "广州长隆旅游度假区",
+        "desc": "长隆国际大马戏拥有全球首创实景式马戏舞台"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1709/41/411f234d79457081a3.img.jpg_200x200_ea02ef99.jpg",
+        "title": "长隆野生动物世界",
+        "desc": "长隆国际大马戏拥有全球首创实景式马戏舞台"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1707/ab/abb70c851caaa6d8a3.img.jpg_200x200_b902dd9e.jpg",
+        "title": "长隆水上乐园",
+        "desc": "长隆国际大马戏拥有全球首创实景式马戏舞台"
+      },
+      {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1707/47/477416df92210439a3.img.jpg_200x200_b9e4ac2c.jpg",
+        "title": "长隆欢乐世界",
+        "desc": "长隆国际大马戏拥有全球首创实景式马戏舞台"
+      },
+      {
+        "id": "005",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1507/9e/7b5e0a44cb0310280b1aeb2a8dd94de8.water.jpg_200x200_3c429960.jpg",
+        "title": "长隆国际大马戏剧院",
+        "desc": "长隆国际大马戏拥有全球首创实景式马戏舞台"
+      },
+      {
+        "id": "006",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1601/3d/3dc7f222d6bca6a790.img.jpg_200x200_e0bb3017.jpg",
+        "title": "广州花城汇MAG环球魔幻世界",
+        "desc": "3D夜光森林——“MAG夜光森林”"
+      },
+      {
+        "id": "007",
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1709/5d/5d986aff376ff248a3.img.jpg_200x200_d1ff8bc0.jpg",
+        "title": "广州正佳极地海洋世界",
+        "desc": "20米超长幻彩水母大道、360度超大广角海底隧道"
+      }
+    ],
+    "weekendList": [
+      {
+        "id": "001",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/92/580e9ea4f37a1b.jpg_r_640x214_72112761.jpg",
+        "title": "广州必游TOP10",
+        "desc": "感受现代与传统相融合的广州"
+      },
+      {
+        "id": "002",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1506/fd/08f524fa9455b4.jpg_r_640x214_b37dbb39.jpg",
+        "title": "暑期玩转粤港澳",
+        "desc": "这个假期开启最高大上的国内游"
+      },
+      {
+        "id": "003",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1606/88/56f7f4bd0493fe.jpg_r_640x214_f8c0994a.jpg",
+        "title": "签到广州长隆",
+        "desc": "来广州来长隆，就对了，就够了~"
+      },
+      {
+        "id": "004",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/50/07fa9343791682.jpg_r_640x214_c8c3d798.jpg",
+        "title": "自然户外好去处",
+        "desc": "快快来到户外，感受花城的魅力"
+      },
+      {
+        "id": "005",
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/96/c5401993cd3b48.jpg_r_640x214_18948dd3.jpg",
+        "title": "开启激情逐浪之旅",
+        "desc": "畅爽一夏从这里开始！"
+      }
+    ]
+  }
+}
